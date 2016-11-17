@@ -22,7 +22,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - [Final screenshots in the “screenshots” folder.](screenshots)
-- [**Watch this video to see how it interacts.**](https://youtu.be/2MUuEi1QTgg)
+  - [**Watch this video to see how it interacts.**]()
 
 ---
 
